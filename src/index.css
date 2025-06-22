@@ -198,12 +198,18 @@ img {
 details {
   border: var(--border-thickness) solid var(--text-color);
   padding: calc(var(--line-height) - var(--border-thickness)) 1ch;
-  margin-bottom: var(--line-height);
+  margin-bottom: 0;
+}
+
+details + details {
+  margin-top: 0;
+  border-top: none;
 }
 
 summary {
   font-weight: var(--font-weight-medium);
   cursor: pointer;
+  list-style-type: "► ";
 }
 details[open] summary {
   margin-bottom: var(--line-height);
