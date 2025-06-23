@@ -48,6 +48,8 @@ html {
   align-items: center;
   background: var(--background-color);
   color: var(--text-color);
+  justify-content: center;
+  min-height: 100vh;            /* take full viewport height for flex centering */
 }
 
 body {
@@ -472,8 +474,8 @@ label input {
 .ascii-banner{
   position: relative;
   display: block;
-  width:  max-content;          /* shrink to art width          */
-  margin:  0 auto 2rem;         /* centred, with bottom gap     */
+  width:  100%;                 /* full width for centering */
+  margin:  2rem auto;           /* keep gap above and below */
   font-family: var(--font-family);
   font-size: 16px;
   font-weight: var(--font-weight-bold);
@@ -482,6 +484,7 @@ label input {
   font-variant-ligatures: none;
   font-feature-settings: "liga" 0;
   text-rendering: optimizeSpeed;
+  text-align: center;           /* center the ASCII art text */
 
   /* vertical centring of each glyph in its 1×line-height cell   */
   padding-top: calc(var(--line-height) / 2);
