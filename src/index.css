@@ -467,3 +467,28 @@ label input {
 .debug-toggle-label {
   text-align: right;
 }
+
+/* DEMOS ASCII banner ---------------------------------------------------*/
+.ascii-banner{
+  position: relative;
+  display: block;
+  width:  max-content;          /* shrink to art width          */
+  margin:  0 auto 2rem;         /* centred, with bottom gap     */
+  font-family: var(--font-family);
+  font-size: 16px;
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height);
+  white-space: pre;
+  font-variant-ligatures: none;
+  font-feature-settings: "liga" 0;
+  text-rendering: optimizeSpeed;
+
+  /* vertical centring of each glyph in its 1×line-height cell   */
+  padding-top: calc(var(--line-height) / 2);
+}
+@media (max-width: 768px){
+  .ascii-banner{ font-size: 12px; }
+}
+@media (max-width: 480px){
+  .ascii-banner{ font-size:  8px; }
+}

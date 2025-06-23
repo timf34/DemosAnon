@@ -1,0 +1,30 @@
+<!-- <pre class="ascii-banner" aria-label="DEMOS logo">
+MM"""Yb.                                                        db                                     
+MM    `Yb.                                                     ;MM:                                    
+MM     `Mb  .gP"Ya `7MMpMMMb.pMMMb.  ,pW"Wq.  ,pP"Yb.         ,V^MM.      MMpMMMb.  ,pW"Wq.  MMpMMMb.  
+MM      MM ,M'   Yb  MM    MM    MM 6W'   `Wb 8I   `"        ,M  `MM      MM    MM 6W'   `Wb MM    MM  
+MM     ,MP 8M""""""  MM    MM    MM 8M     M8 `YMMMa.        AbmmmqMA     MM    MM 8M     M8 MM    MM  
+MM    ,dP' YM.    ,  MM    MM    MM YA.   ,A9 L.   I8       A'     VML    MM    MM YA.   ,A9 MM    MM  
+MMmmmdP'    `Mbmmd'.JMML  JMML  JMML.`Ybmd9'  M9mmmP'     .AM.     .AMA..JMML  JMML.`Ybmd9'  MML   MM
+</pre> -->
+
+<!-- <pre class="ascii-banner" aria-label="DEMOS logo">
+MM"""Yb.                                                     
+MM    `Yb.                                                                                
+MM     `Mb  .gP"Ya `7MMpMMMb.pMMMb.  ,pW"Wq.  ,pP"Yb.           
+MM      MM ,M'   Yb  MM    MM    MM 6W'   `Wb 8I   `"     
+MM     ,MP 8M""""""  MM    MM    MM 8M     M8 `YMMMa.    
+MM    ,dP' YM.    ,  MM    MM    MM YA.   ,A9 L.   I8     
+MMmmmdP'    `Mbmmd' JMML  JMML  JMML.`Ybmd9'  M9mmmP'  
+</pre> -->
+
+<!-- DEMOS ASCII banner -->
+<pre class="ascii-banner" aria-label="DEMOS logo">
+XMMMMMMMKo,     XMMMMMMMMMMM0   XMM      MMc    .dMMMMMMMb.      dMMMMMMMM0. 
+XMM;     XMW    XMMl            XMMM    MMMc   .0MM     MM0;.   KMM         
+xMM;      MMc   XMMl            XMM WMMM MMc   o0M       MM0o   KMM         
+XMM;      MMC   XMMMMMMMMM0     XMM  WW  MMc   W0Ml      .M0W    dMMMMMMMb. 
+XMM;      MMc   XMMl            XMM      MMc   o0M;      ;M0o            MM0
+XMM;     oMd    XMMl            XMM      MMc   .0MM      MM0.            MM0
+XMMMMMMMMKP'    XMMMMMMMMMMM0   XMM      MMc    ';MMMMMMM:'     .0MMMMMMMm' 
+</pre>
